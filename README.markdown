@@ -16,6 +16,11 @@
                                       |                                               /
                                        \_____________________________________________/
 
+> Use commit
+[#a6012f2](https://github.com/scrooloose/syntastic/commit/a6012f2b4c62a2385bc4292090115f8c9c9d7611)
+to adapt `minibufexpl`.
+>
+> See https://github.com/scrooloose/syntastic/issues/1538
 
 - - -
 1. [Introduction](#introduction)  
